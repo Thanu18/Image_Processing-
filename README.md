@@ -29,6 +29,6 @@ pip install -r requirements.txt
 - Rembg
 - Streamlit
 
-![Image](https://user-images.githubusercontent.com/username/123456789/image.png)
+![Image](https://github.com/Thanu18/Image_Processing-/blob/main/App_Demo.png)
 
 
