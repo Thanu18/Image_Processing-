@@ -29,4 +29,6 @@ pip install -r requirements.txt
 - Rembg
 - Streamlit
 
-<img width="133" alt="Screenshot 2024-07-23 161852" src="https://github.com/user-attachments/assets/d01d2e88-57d6-4622-afed-95d8ccbad8d3">
+![Image](https://user-images.githubusercontent.com/username/123456789/image.png)
+
+
