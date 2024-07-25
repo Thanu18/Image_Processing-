@@ -8,7 +8,7 @@ You can try out the app [here](https://huggingface.co/spaces/Thanusha/Image_proc
 
 ## Installation
 
-To run this app locally, you need to install necessry dependencies. Create a virtual environments and use 'pip' to install the packages listed in 'requiremenst.txt':
+To run this app locally, you need to install neccessary dependencies. Create a virtual environments and use 'pip' to install the packages listed in 'requiremenst.txt':
 
 ### Create a virtual environment
 conda create -p mynev python=3.12 -y
